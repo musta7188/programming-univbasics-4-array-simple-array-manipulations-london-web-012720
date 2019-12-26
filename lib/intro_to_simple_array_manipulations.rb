@@ -58,7 +58,8 @@ end
 
 
 def using_uniq(array)
-  only_one = array.uniq("haircuts")
+ only_one = array.uniq
 
-  only_one
+ only_one
+
 end
