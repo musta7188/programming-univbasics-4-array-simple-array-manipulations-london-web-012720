@@ -71,8 +71,8 @@ end
 
 def using_delete(array, string)
 
-delete_equal = array.delete(1, string)
+delete_equal = array.delete(2, string)
 
 delete_equal
-  
+
 end
