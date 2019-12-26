@@ -41,3 +41,10 @@ def shift_with_args(array)
   first_two_element
 
 end
+
+def using_concat(array1, array2)
+  two_in_one = array1 + array2
+
+  two_in_one
+  
+end
