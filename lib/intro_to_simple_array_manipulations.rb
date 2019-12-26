@@ -78,7 +78,9 @@ delete_equal
 end
 
 def using_delete_at(array, integer)
-  delete_at_the_index = array.delete integer
 
-  delete_at_the_index
+  delete_in = array.delete(integer)
+
+  delete_in
+
 end
