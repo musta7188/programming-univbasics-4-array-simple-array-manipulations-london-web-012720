@@ -76,10 +76,3 @@ delete_equal = array.delete(1, string)
 delete_equal
   
 end
-
-
-
-
-
-
-
