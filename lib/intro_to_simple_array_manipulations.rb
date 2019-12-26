@@ -26,3 +26,15 @@ def pop_with_args(array)
    remove_last_two
 
 end
+
+def using_shift(array)
+  first_element = array.shift
+
+  first_element
+
+end
+
+
+
+
+
