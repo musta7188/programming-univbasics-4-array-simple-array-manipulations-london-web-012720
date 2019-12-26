@@ -43,8 +43,8 @@ def shift_with_args(array)
 end
 
 def using_concat(array1, array2)
-  two_in_one = array1 += array2
+  two_in_one = array1.concat arrat2
 
   two_in_one
-  
+
 end
