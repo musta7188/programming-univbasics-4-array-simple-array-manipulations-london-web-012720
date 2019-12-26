@@ -61,5 +61,10 @@ def using_uniq(array)
  only_one = array.uniq
 
  only_one
+end
 
+def using_flatten(array)
+  flatten_array = array.flatten
+
+  flatten_array
 end
