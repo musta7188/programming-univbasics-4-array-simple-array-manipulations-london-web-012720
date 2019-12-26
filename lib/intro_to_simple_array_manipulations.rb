@@ -11,3 +11,10 @@ def using_unshift(array, string)
 
   update_first_element
 end
+
+def using_pop(array)
+
+remove_last = array.pop
+
+remove_last
+end
