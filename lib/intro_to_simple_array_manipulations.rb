@@ -21,7 +21,7 @@ end
 
 def pop_with_args(array)
 
-   remove_last_two = array.pop(-2)
+   remove_last_two = array.pop(2)
 
    remove_last_two
 
