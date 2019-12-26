@@ -48,3 +48,16 @@ def using_concat(array1, array2)
   two_in_one
 
 end
+
+def using_insert(array, element)
+  insert_array = array.insert(element)
+
+  insert_array
+end
+
+
+
+
+
+
+
