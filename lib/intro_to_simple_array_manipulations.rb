@@ -33,8 +33,3 @@ def using_shift(array)
   first_element
 
 end
-
-
-
-
-
