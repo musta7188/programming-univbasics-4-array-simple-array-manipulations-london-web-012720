@@ -50,7 +50,7 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, element)
-  
+
   insert_array = array.insert(3, element)
 
   insert_array
