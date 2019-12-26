@@ -57,8 +57,8 @@ def using_insert(array, element)
 end
 
 
-def unsing_uniq(array)
-  only_one = array.uniq 
+def using_uniq(array)
+  only_one = array.uniq("haircuts")
 
   only_one
 end
