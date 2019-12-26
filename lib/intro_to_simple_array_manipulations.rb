@@ -33,3 +33,11 @@ def using_shift(array)
   first_element
 
 end
+
+
+def shift_with_args(array)
+  first_two_element = array.shift(2)
+
+  first_two_element
+
+end
