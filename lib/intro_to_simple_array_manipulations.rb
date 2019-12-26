@@ -54,10 +54,3 @@ def using_insert(array, element)
 
   insert_array
 end
-
-
-
-
-
-
-
