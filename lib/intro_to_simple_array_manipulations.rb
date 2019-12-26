@@ -55,3 +55,10 @@ def using_insert(array, element)
 
   insert_array
 end
+
+
+def unsing_uniq(array)
+  only_one = array.uniq 
+
+  only_one
+end
